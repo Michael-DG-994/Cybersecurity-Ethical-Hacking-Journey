@@ -1,5 +1,5 @@
 
-# EPICODE Cybersecurity & Ethical Hacking Journey
+# EPICODE Cybersecurity & Ethical Hacking Journeyn (W.I.P.)
 
 Un record delle mie esperienze di crescita personale nel campo della cybersecurity durante il mio percorso con **EPICODE Institute of Technology**. Ogni progetto ed esercizio svolto con EPICODE e fornito di report e spiegazione step-by-step dello svolgimento.
 
@@ -35,6 +35,7 @@ Ogni directory contiene progetti individuali, ciascuno dotato di README con info
 - Packet Tracer VLAN & Configurazione multilayer Switch
 - Packet Tracer configurazione DHCP server
 - PFSense firewall policy configuration
+- Configurazione Perimeter Firewall e segmentazione di un ufficio
 
 ### 03 - Automation & Scripting
 - Basic C calcolatore media

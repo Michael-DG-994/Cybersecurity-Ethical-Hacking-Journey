@@ -23,13 +23,13 @@ Ogni directory contiene progetti individuali, ciascuno dotato di README con info
 
 ### 01 - Basic I.T.
 - Virtualbox setup
-- IPv4 e analisi IP
 - Hardware & Scheduling Processi
 - Esercizi Debian CLI
 - ShiTE & nano
 - Cloud providers & models
 
 ### 02 - Networking
+- IPv4 e analisi IP
 - Packet Tracer layer 2 & Home network configuration
 - Packet Tracer layer 3 & Basic routing
 - Packet Tracer VLAN & Configurazione multilayer Switch

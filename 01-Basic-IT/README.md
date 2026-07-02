@@ -3,8 +3,8 @@
 
 ## 02 - I.T. Basics
 
-- 01 - Virtual Box & lab setup
-- 02 - Scheduling processi
-- 03 - Esercizi Debian CLI
-- 04 - ShiTE & nano
-- 05 - Cloud providers & models
+## Struttura
+| # | Campo | Focus |
+|---|--------|-------|
+| [01](./01-Virtualbox-lab/)|**Virtualbox lab setup**|Setup del laboratorio per epicode, VM, Virtualizzazione|
+||||

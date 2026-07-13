@@ -1,0 +1,10 @@
+#FORMAT TARGETS TEXT
+#
+#1. Email only: user@example.com
+#2. Full name + email: Mike Dg,mikedg@example.com
+#
+#comments are ignored
+#
+# ===================TARGETS===================
+Micheal Dg,michael_test@pwned.ru
+

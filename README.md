@@ -52,7 +52,6 @@ Ogni directory contiene progetti individuali, ciascuno dotato di README con info
 - OSINT tools automation script Python
 - Prompt injection protection & basic regex
 - Basic Nmap scan automation & Report
-- Automated phishing campaign with AI
 - UDP flooding
 - Powershell automation & scriping VS. Microsoft cmd.exe
 
@@ -72,6 +71,7 @@ Ogni directory contiene progetti individuali, ciascuno dotato di README con info
 - Analisi anyrun
 
 ### 05 - Red Team
+- Automated phishing campaign with AI
 - DVWA file inclusion/upload & Hash cracking
 - Vulnhub Bsides Vancouver 2018 CTF
 - Dictionary Crack

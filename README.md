@@ -1,5 +1,5 @@
 
-# EPICODE Cybersecurity & Ethical Hacking Journeyn (W.I.P.)
+# EPICODE Cybersecurity & Ethical Hacking Journey (W.I.P.)
 
 Un record delle mie esperienze di crescita personale nel campo della cybersecurity durante il mio percorso con **EPICODE Institute of Technology**. Ogni progetto ed esercizio svolto con EPICODE e fornito di report e spiegazione step-by-step dello svolgimento.
 
@@ -45,7 +45,7 @@ Ogni directory contiene progetti individuali, ciascuno dotato di README con info
 - Script conto ripetizioni in una stringa Python
 - Script Media, Mediana e Moda Python
 - Port Scanner basico socket Python
-- Script socket di ascoltoù
+- Script socket di ascolto
 - Virtual Enviroment & gemini-2.5-flash API
 - Analisi codice python
 - Toy encryption con python

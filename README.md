@@ -78,7 +78,9 @@ Ogni directory contiene progetti individuali, ciascuno dotato di README con info
 - OSCP Overflow1 & Overflow2
 - SQL injection
 - Win10 metasploitable TOMCAT pentest
+- Metasploitable2 Telnet
 - Metasploitable2 Postgres pentest
+- Metasploitable2 VSFTPD backdoor
 - Win10 metasploitable Icecast meterpreter established
 - Metasploitable2 Java RMI pentest
 - CTF Vulnhub Bsides Vancouver 2018 CTF

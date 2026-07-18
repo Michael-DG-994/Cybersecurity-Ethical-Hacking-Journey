@@ -12,3 +12,4 @@
 | [04](./04-DHCP-Server)|**Packet Tracer DHCP configuration**|Esercizio DHCP Server su Packet Tracer|
 | [05](./05-PFSense-Firewall-Policy)|**PFSense Firewall Policy**|Esercizio configurazione policy di PFSense tra due VM|
 | [06](./06-Perimeter-Firewall-Office)|**ZPF Firewall Configuration**|Esercizio creazione di firewall perimetrale (in questo caso ZPF) di un ufficio|
+| [07](./07-nmap/)|**NMAP**|Basi del tool nmap, scan e utilizzi|

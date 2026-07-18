@@ -73,21 +73,19 @@ Ogni directory contiene progetti individuali, ciascuno dotato di README con info
 ### 05 - Red Team
 - Automated phishing campaign with AI
 - DVWA local file inclusion, RCE & Hash cracking
-- Vulnhub Bsides Vancouver 2018 CTF
 - Dictionary Crack
 - HackTheBox
+- OSCP Overflow1 & Overflow2
+- SQL injection
 - Win10 metasploitable TOMCAT pentest
 - Metasploitable2 Postgres pentest
 - Win10 metasploitable Icecast meterpreter established
 - Metasploitable2 Java RMI pentest
+- Vulnhub Bsides Vancouver 2018 CTF
 - Vulnhub DC-1
 - Vulnhub DC-2
 - Vulnhub DC-3
 - Vulnhub Empire LupinOne
 - Vulnhub Jangow01
-- OSCP Overflow1 & Overflow2
-- SQL injection
-- Nmap network mapper
-
 
 

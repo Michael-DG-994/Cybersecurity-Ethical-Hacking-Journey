@@ -74,7 +74,7 @@ Ogni directory contiene progetti individuali, ciascuno dotato di README con info
 - UDP flooding
 - DVWA local LFI & RCE
 - Dictionary Crack
-- HackTheBox
+- Introduzione HackTheBox
 - OSCP Overflow1 & Overflow2
 - SQL injection
 - Win10 metasploitable TOMCAT pentest

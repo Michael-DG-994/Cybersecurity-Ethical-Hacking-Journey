@@ -19,3 +19,4 @@
 | [11](./11-LazyNmap-Script/)|**Script Nmap basico**|Semplice script che rende autonomi scan di Nmap|
 | [12](./12-Analisi-Codice/)|**Analisi Codice Python**|Analisi di codice python a prima vista|
 | [13](./13-Powershell-vs-CMD/)|**Differenze tra CMD e Powershell|Differenze tra CMD.exe e Powershell e scripting con i comandlets di PS|
+| [14](./14-sassocartaforbice/)|**Sasso Carta Forbice con Python|Esercizio basico Sasso Carta Forbice con python per EPICODE|

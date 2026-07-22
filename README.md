@@ -10,7 +10,7 @@ Un record delle mie esperienze di crescita personale nel campo della cybersecuri
 |---|--------|-------|
 | [01](./01-Basic-IT/)|**Basic I.T.**|Hardware, Fondamentali O.S., CLI, Virtualizazzione|
 | [02](./02-Networking/)|**Networking**|Cisco Packet Tracer, Socket, Scanning, Firewall Setup|
-| [03](./03-Automation/)|**Automazione e Scripting**|Cisco Packet Tracer, Socket, Scanning, Firewall Setup|
+| [03](./03-Automation/)|**Automazione e Scripting**|Automazione task cybersecurity e scripting|
 | [04](./04-Blue-Team/)|**Blue Team**|SIEM, Packet Analysis, Malware Analysis, Security Logs|
 | [05](./05-Red-Team/)|**Red Team**|Kali tools, Spear Phishing, CTFs, Metasploit, HackTheBox|
 

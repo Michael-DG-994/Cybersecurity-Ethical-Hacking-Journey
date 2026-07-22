@@ -1,5 +1,5 @@
 
-# Cybersecurity & Ethical Hacking Journey (W.I.P.)
+# Cybersecurity & Ethical Hacking Journey
 
 Un record delle mie esperienze di crescita personale nel campo della cybersecurity durante il mio percorso. Ogni progetto ed esercizio svolto è fornito di report e spiegazione step-by-step dello svolgimento.
 

@@ -6,7 +6,7 @@
 ## Struttura
 | # | Campo | Focus |
 |---|--------|-------|
-| [01](./)|**FlareVM lab setup**|Setup del laboratorio per analisi malware|
+| [01](./)|**FlareVM lab**|Setup del laboratorio FlareVM e risultati campione malware online|
 | [02](./)|**Analisi statica malware**|Analisi statica campione malware|
 | [03](./)|**Security logs**|Esercizio security logs windows|
 | [04](./)|**Analisi traffico**|Analisi traffico network con wireshark PCAP|

@@ -14,7 +14,7 @@ Un record delle mie esperienze di crescita personale nel campo della cybersecuri
 | [04](./04-Blue-Team/)|**Blue Team**|SIEM, Packet Analysis, Malware Analysis, Security Logs|
 | [05](./05-Red-Team/)|**Red Team**|Kali tools, Spear Phishing, CTFs, Metasploit, HackTheBox|
 
-Ogni directory contiene progetti individuali, ciascuno dotato di README con informazioni su data e unità relativa all'esercizio. Inoltre ogni progetto contiene un report in formato pdf che lo espone completamente.
+Ogni directory contiene lista progetti individuali nel README con informazioni generali sull'esercizio. Inoltre ogni singolo esercizio contiene un report in formato pdf che lo espone completamente.
 
 ---
 
